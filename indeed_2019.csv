@@ -1,0 +1,825 @@
+position,company,location,flag
+Quality Analyst,Alameda Health System,"Oakland, CA",100
+"Data Architect, Data & Analytics",Business & Decision,"San Francisco Bay Area, CA",98
+"Manager, Analytics",Dynavax Technologies,"Berkeley, CA",90
+Head of Data Analytics and Systems Architecture,Strideline LLC,"Seattle, WA",87
+Consultant â€“ Data Analytics Group,Opinion Dynamics,"Oakland, CA",77
+Client Success Manager,Elevated Resources C/O Client,"Oakland, CA",72
+Director of Data & Analytics,The Voter Participation Center / Center for Voter Information,"Washington, DC",65
+"Vice President, Compliance Monitoring and Data Analytics",Options Clearing Corporation,"Chicago, IL",64
+Data Science Manager,Big Fish Games,"Oakland, CA",57
+Sr. Data Analyst - Google Analytics,Sourceability,"Irvine, CA",48
+122 HEALTHCARE ANALYTICS - Manager Analytics,Alameda Alliance,"Alameda, CA",39
+"Sr. Director, Data and Market Analytics & Insights (USBU)",Takeda Pharmaceuticals,"Boston, MA",23
+"BI Project Manager/Analyst Consultant, Data & Analytics (D&A)",Business & Decision,"San Francisco Bay Area, CA",10
+"Associate, Data & Analytics Modeler Machine Learning - FS",KPMG,"Washington, DC",7
+HR Data & Analytics Manager,Anheuser-Busch,"St. Louis, MO",6
+Manager of Rolling Stock Administration,Bart,"Oakland, CA",6
+Data Scientist,Amgen,"Thousand Oaks, CA",4
+People Analytics Analyst,ServiceNow,"San Diego, CA",4
+Data Visualization Analyst,Charlie's Produce,"Seattle, WA",4
+Experienced Healthcare Data Analyst,Grand Rounds,"San Francisco, CA",3
+"Analyst, BI & Analytics - Virtual",JLL,"Chicago, IL",3
+"Data Science Specialist, Advanced Analytics",Lincoln Financial,"Boston, MA",3
+Data Analytics Grintern,SmileDirectClub,"Nashville, TN",3
+Faculty Chair - Analytics & Big Data Program,Executive Education Institute,"San Francisco, CA",3
+"Quality Data Scientist, Analytics",Tonal,"San Francisco, CA",3
+Data Scientist,Curology,"San Francisco, CA",3
+"Data Collection Specialist- San Francisco, CA",U.S. Bank,"San Francisco, CA",3
+"Senior Associate, Data & Analytics",KPMG,"San Francisco, CA",3
+Data Scientist â€“ Premium Analytics,Spotify,"New York, NY",3
+Data Analytics Immersion Instructor,Thinkful,Remote,3
+Data Analytics Manager (NYC),DonorsChoose.org,"New York, NY",3
+"Senior Associate, Data & Analytics",WeWork,"New York, NY",3
+Data & Analytics Information Architect,Procter & Gamble,"Cincinnati, OH",3
+Data Analytics Professional,Freddie Mac,"McLean, VA",3
+Data Scientist - Data Analytics & Data Management,State of Idaho,"Boise, ID",3
+Data Analytics Liaison,Saint Joseph Mercy Health System,"Ann Arbor, MI",2
+Data Analytics & Modeling Consultant,Deloitte,"Gilbert, AZ",2
+People Analytics Scientist,Workday,"Pleasanton, CA",2
+Data Analytics Instructor - University of Oregon,Trilogy Ed,"Portland, OR",2
+Data Analyst/Scientist,DXC,California,2
+Data Analytics Intern,New York eHealth Collaborative,"New York, NY",2
+"Manager, Data Analytics",CMI/Compas,"Parsippany, NJ",2
+Data Analytics Intern,TDS,"Madison, WI",2
+Operations Specialist (Analytics & Operations),Forward,"San Francisco, CA",2
+Data Analytics Engineer Intern,"Samsung Semiconductor, Inc.","San Jose, CA",2
+Operations Manager - Data & Analytics Global Growth Platform,Slalom Consulting,"Seattle, WA",2
+Data Analytics Intern,Vermeer Corporation,"Pella, IA",2
+"Manager, Healthcare Analytics - Data Governance",MemorialCare Health Services,"Fountain Valley, CA",2
+Data Analytics Consultant,Inspire11,"Atlanta, GA",2
+Data Analytics Coordinator,Marianna Industries,"Omaha, NE",2
+Data Analytics Engineer,Cappex,"Chicago, IL",2
+"Operations Analyst, Business Strategy & Analytics",The RealReal,"San Francisco, CA",2
+"Product Analytics Lead, Data Science",Google,"San Bruno, CA",2
+"Data Analyst, Customer Insight Analytics - Entry Level",Grand Rounds,"Reno, NV",2
+"Recruiter, Science and Data Analytics (Contract)",The Climate Corporation,"San Francisco, CA",2
+Sales Systems and Data Analyst,RiseSmart,Remote,2
+Data & Analytics Business Development Executive,CapTech Consulting,"Atlanta, GA",2
+Data & Analytics Business Intelligence Intern,Donnelley Financial Solutions,"Chicago, IL",2
+Sales Operations Data Analyst,Microsoft,"Bellevue, WA",2
+Sales Engineer,Fivetran,"Oakland, CA",2
+Sales Development Representative,Culture Amp,"San Francisco, CA",2
+Sales Data Analyst,Producers Dairy Foods,"Fresno, CA",2
+Data Analyst,Adaptive Biotechnologies,"Seattle, WA",2
+Data Analyst,Autodesk,"San Francisco, CA",2
+Data Analyst,Black Knight,"Glendale, CA",2
+"Research and Data Associate, Supervised Release Program",Center for Court Innovation,"New York, NY",2
+Data Analyst,DaVita Medical Group,"El Segundo, CA",2
+Data Analyst,GreenCoast Hydroponics,"Long Beach, CA",2
+Quantitative Researcher,MSCI Inc.,"Berkeley, CA",2
+Digital Data & Analytics Manager,JPMorgan Chase,"San Francisco, CA",2
+Qualitative Research and Survey Analyst,Aspire Public Schools,"Oakland, CA",2
+Data Analyst,"PennyMac Loan Services, LLC","Agoura Hills, CA",2
+Data Analyst,SAC Health System,"San Bernardino, CA",2
+Data Analyst,Spin Electric Scooters,"San Francisco, CA",2
+Data Analyst,Thistle.co,"San Francisco, CA",2
+Data Analyst,VaynerMedia LLC,"Los Angeles, CA",2
+"Program Specialist, International Programs -",University of California Berkeley,"Berkeley, CA",2
+Data Analyst - Advanced Analytics,Univar Solutions,"Downers Grove, IL",2
+Data Analyst - Google Analytics 360,VSB Tech,"New York, NY",2
+"Manager, Data Analytics",Bird Rides Inc.,"Santa Monica, CA",2
+Data Analyst II,Microsoft,"Redmond, WA",2
+Data Analyst Intern,Lake Appliance Repair,"Fair Oaks, CA",2
+Portuguese Speaking Data Analyst S593,Anzu Global,"Cupertino, CA",2
+Data Analytics Manager,Bank of the West,"San Ramon, CA",2
+"sr decision scientist, Applied Analytics",Starbucks,"Seattle, WA",2
+"Manager, Data Analysis",Hawaii Dental Service,"Honolulu, HI",2
+"Data Scientist, Analytics - Spark AR",Facebook,"Menlo Park, CA",2
+Forecast Analyst,Cisco Meraki,"San Francisco, CA",2
+Data Scientist,Spry Health,"Palo Alto, CA",2
+Data Scientist,Zioqu,"San Diego, CA",2
+Data Scientist (Analytics),Opendoor,"San Francisco, CA",2
+"Data Scientist (Entry-Level), Product Analytics (Temporary)",Brain Corp,"San Diego, CA",2
+Data Scientist - Customer Analytics,Jet.com,"San Bruno, CA",2
+Data Scientist - Customer Analytics,Walmart,"San Bruno, CA",2
+Entry Level Data Scientist,IBM,United States,2
+Entry Level Data Scientist,CACI,"Bethesda, MD",2
+"Entry Level Data Analyst (Tucson, AZ)",Titan Healthcare Management Solutions,"Tucson, AZ",2
+Entry Level Data Analyst,Axos Bank,"San Diego, CA",2
+"Data Scientist, Analytics - Messenger Relevance",Facebook,"Menlo Park, CA",2
+"Data Scientist, Analytics - Video Integrity",Facebook,"Menlo Park, CA",2
+Full Stack Engineer,"Lucid Design Group, Inc.","Oakland, CA",2
+"Data Scientist, Customer Analytics",The J. M. Smucker Company,"Akron, OH",2
+Data Strategy Lead,Komodo Health,"San Francisco, CA",2
+Data Systems Editor,Social Standards,"Oakland, CA",2
+"Director, Data Analytics","True Botanicals, Inc","San Francisco, CA",2
+Data Visualization Engineer - iCloud Analytics,Apple,"Santa Clara Valley, CA",2
+Data Warehouse Specialist,University of California - Irvine,"Irvine, CA",2
+Data Warehousing Engineer,InfoObjects Inc,"Mountain View, CA",2
+Data and Analytics Director,"J.C. Penney Corporation, Inc.","Plano, TX",2
+Data and Analytics Engineer,Genentech,"South San Francisco, CA",2
+Data/Analytics Analyst,UBS,"Weehawken, NJ",2
+Director GBCARE Data Analytics,Gallagher,"Rolling Meadows, IL",2
+"Decision Scientist, People Analytics, Analytics & Insights",Starbucks,"Seattle, WA",2
+"Forecasting Analyst, Ads Analytics and Insights",Google,"Mountain View, CA",2
+Data Scientist,Flow Labs,"Oakland, CA",2
+Data Analytics Manager - Data Governance,Mercury Insurance Group,"Brea, CA",2
+"Data Engineer, Analytics - Seattle",Facebook,"Seattle, WA",2
+Data Analytics Product Owner,Welk Resort Group,"San Marcos, CA",2
+Data Analytics Specialist,Logistics Management Institute,"Springfield, VA",2
+Data Analytics Specialist,University of North Carolina Wilmington,"Wilmington, NC",2
+"Senior Analyst, Engagement & Retention Analytics",NBCUniversal,"Los Angeles, CA",2
+Lead EHR Analyst,Norton Sound Health Corporation,"Oakland, CA",2
+Lead Data Scientist - Product Analytics,Common Networks,"San Francisco, CA",2
+Lauder 2020 Summer Intern - Online,The EstÃ©e Lauder Companies,United States,2
+"Data Architect, Analytics Data Products",Wayfair,"Boston, MA",2
+Data Center Facility Maintenance Coordinator,Apple,"Reno, NV",2
+IoT Data & Analytics Product Manager,McDonald's Corporate,"Chicago, IL",2
+Internship: Data Analytics,Covance,"Madison, WI",2
+Intern - Data Analytics,CSL Behring,"Kankakee, IL",2
+"Data Engineering Manager, Data & Analytics",WeWork,"San Francisco, CA",2
+Data Scientist,Digitalogy,"New York, NY",2
+Data Integration Analyst,Zillow Group,"Irvine, CA",2
+Healthcare Data Analytics Specialist,Inovalon,"Bowie, MD",2
+Healthcare Data Analyst,Vim,"San Francisco, CA",2
+Healthcare Data Analyst,UnitedHealth Group,"Sacramento, CA",2
+Data Product Manager,Azlo,"San Francisco, CA",2
+Health Economist,Mathematica Policy Research,"Oakland, CA",2
+Head of Data Analytics,Berkshire Hathaway Homestate Companies,"San Francisco, CA",2
+Head of Data,Spin Electric Scooters,"San Francisco, CA",2
+"Data Science Manager, Analytics",Textio,"Seattle, WA",2
+Data Scientist,Change Research,"Palo Alto, CA",2
+Data Scientist,Clarigent Health,"Mason, OH",2
+Growth Data Analyst,A Cloud Guru,"Austin, TX",2
+Manager of Data Analytics,UnitedHealth Group,"Santa Ana, CA",2
+"Data Analyst, Ads Marketing",Google,"San Francisco, CA",2
+Associate Data Quality Analyst,Cedars-Sinai,"Los Angeles, CA",2
+American Express Campus Graduate â€“ 2020 Digital Analytics/Data Science Summer Internship,American Express,United States,2
+"Associate, Data & Analytics",KPMG,"Chicago, IL",2
+"Associate, Risk Analytics",KPMG,"Los Angeles, CA",2
+"Sr. Consultant Business and Data Analytics, Healthcare",UnitedHealth Group,"Santa Ana, CA",2
+"Sr. Associate, Project Management - Data & Analytics Operations",KPMG,"Los Angeles, CA",2
+"Sr. Associate, Data Analytics",Publicis Sapient,"New York, NY",2
+Baseball Analytics Intern,USA Baseball,"Durham, NC",2
+"Sr Analyst, Enterprise Analytics",Upwork,"San Francisco Bay Area, CA",2
+Strategic Data Analytics Analyst I,M&T Bank,"Getzville, NY",2
+"Senior Data Scientist, Analytics & Inference",Codecademy,"New York, NY",2
+Big Data Analytics Director,"Syntelli Solutions, Inc","Charlotte, NC",2
+"Senior Data Scientist, Business Analytics",Intuit,"Mountain View, CA",2
+Analytics Intern,"Operating Company ACTIVISION PUBLISHING, INC","Santa Monica, CA",2
+"Specialist, Data Analytics",Northern Trust Corp.,"Chicago, IL",2
+"Sonos | Data Scientist, Go-To- Market Insights and Analytics","Sonos, Inc","Boston, MA",2
+"AVP, CareCredit Provider Marketing Analytics",Synchrony,"Costa Mesa, CA",2
+Software Sales â€“ Splunk Software â€“ Data Analytics and Information Security (InfoSec),Aditum,United States,2
+Brand Analytics Data Scientist II,Expedia Group,"Bellevue, WA",2
+Business Intelligence / Data Analyst (US),Higg Co and Sustainable Apparel Coalition,"San Francisco, CA",2
+"Analyst, Business Operations & Analytics",Sonder,"San Francisco, CA",2
+Talent Effectiveness & Analytics,Netflix,"Los Angeles, CA",2
+"Analyst, Data Analytics",CMI/Compas,"New York, NY",2
+Analytics Consultant,IQVIA,"San Francisco, CA",2
+Summer Intern - Advanced Analytics,"Vizient, Inc.","Chicago, IL",2
+"Analytics Co-op - Boston, MA (January - June 2020)",Liberty Mutual Insurance,"Boston, MA",2
+Analytics Associate,Hippo Insurance,"Palo Alto, CA",2
+Business Data Analyst II-Innovation Economy,Silicon Valley Bank,"San Francisco, CA",2
+Tableau - Advanced Analytics,Zensar Technologies,"San Jose, CA",2
+"System Analyst, Data & Analytics",Banfield Pet Hospital,"Vancouver, WA",2
+Strategic Analytics Analyst I - Strategic Analytics,Hoag Memorial Hospital Presbyterian,"Newport Beach, CA",2
+Business Analytics Specialist,Telstra,California,2
+2020 Summer Intern - Forensic & Litigation Consulting - Data & Analytics,"FTI Consulting, Inc.","New York, NY",2
+Assistant/Associate Specialist,University of California Berkeley,"Berkeley, CA",2
+Associate Consultant,159 Solutions,"San Francisco Bay Area, CA",2
+2020 Technology Internship (Analytics),T-Mobile,"Bellevue, WA",2
+Associate Data Analyst,Procter and Gamble,"Seattle, WA",2
+2020 Mars Inc. Internship - Data Analytics,Mars,"Hackettstown, NJ",2
+"decision scientist, Applied Analytics- Seattle, WA",Starbucks,"Seattle, WA",2
+"Compliance Analyst, Data Protection",Google,"San Francisco, CA",2
+Senior Data Analyst,Blue Owl,"San Francisco, CA",2
+Contract - Tech Professional Data Analytics,"HRL Laboratories, LLC","Malibu, CA",2
+2020 CPO - Data Policy & Analysis Intern (Project Based),Federal Reserve Bank of San Francisco,"San Francisco, CA",2
+2020 Summer Internship Program â€“ Data Analytics (Portland),U.S. Bank,Oregon,2
+Consultant,ZoomRx,"San Francisco, CA",2
+Cost Data & Analytics Senior Manager,Whole Foods Market,"Austin, TX",2
+"Strategy and Analytics Manager, Youtube TV",Google,"San Bruno, CA",1
+Healthcare Data Analyst,Center for Family Health and Education,"Panorama City, CA",1
+Strategy and Analytics Manager,Los Angeles Rams,"Agoura Hills, CA",1
+"Head of WW Solutions Architecture, Data & Analytics","Amazon Web Services, Inc.","Portland, OR",1
+Head of Sales Strategy & Analytics,Samsung NEXT,"San Francisco, CA",1
+Health Center Data Processor and Compliance Assistant,Life Chiropractic College West,"Hayward, CA",1
+Intern - Data,State Farm,"Bloomington, IL",1
+Internship-Marketing & Data Analytics,Tree Top,"Selah, WA",1
+Statistician,SF VA Medical Center,"San Francisco, CA",1
+Healthcare Data Analyst,"PSG Support Services, LLC",Remote,1
+Head of Data and Analytics,ChowNow,"Los Angeles, CA",1
+Student Services Officer,Stanford University,"Stanford, CA",1
+Summer 2020 WSJ. Magazine Internship,Dow Jones,"New York, NY",1
+JR. Data Analyst,InfoObjects Inc,"San Francisco, CA",1
+Jr Data Analyst,"Framework Homeownership, LLC","Boston, MA",1
+Head of Analytics,Scaleapi,"San Francisco, CA",1
+HR Solutions Lead,Anaplan,"San Francisco, CA",1
+Summer Intern - Data Science & Analytics,Allegion,"Carmel, IN",1
+Summer Intern - Data Science & Analytics,UnitedHealth Group,"Carmel, IN",1
+Growth Marketing Intern,Interview Query,"Berkeley, CA",1
+Statewide Data Manager,TEXAS ORGANIZING PROJECT,"San Antonio, TX",1
+"Strategy and Analytics Associate, People Operations",Google,"Mountain View, CA",1
+Healthcare Data Analyst,Tonal,"Sacramento, CA",1
+"Statistician, Data Analytics",Phar LLC,"Beverly Hills, CA",1
+Intern Program (Unpaid),Just One Dime,"Austin, TX",1
+Intern - Clinical Research & Analytics Development,ZEISS Group,"Dublin, CA",1
+"Intern, Analytics (Summer 2020)",Ticketmaster,"Hollywood, CA",1
+Integrated Service Owner - Enterprise Analytics and Data Science,Roche,"San Francisco, CA",1
+"Intern, Data Science",Autodesk,"San Francisco, CA",1
+"Intern, Home Entertainment - Marketing Analytics",Lionsgate Entertainment,United States,1
+Innovation Specialist- Summer/Fall 2020 Start Date,ADAPT@BAIN,"San Francisco, CA",1
+"Strategic Customer Engagements, Data Engineer - Pricing Analytics","Amazon Web Services, Inc.","Seattle, WA",1
+Innovation Expert,ADAPT@BAIN,"San Francisco, CA",1
+"Intern, Information Technologies - Data Analytics",VMware,"Palo Alto, CA",1
+"Internal Audit Internship - Seattle, WA (Summer 2020)",Liberty Mutual Insurance,"Seattle, WA",1
+IT Helpdesk Specialist,College Track,"Oakland, CA",1
+Internal Auditor - Data Analytics (IT Auditor I),Bio-Rad,"Hercules, CA",1
+IT Data Analytics Intern,CHS Inc.,"Inver Grove Heights, MN",1
+IT Consultant I UXD,Kaiser Permanente,"Oakland, CA",1
+"Summer Intern, Data Analytics - OIG",Federal Reserve Board of Governors,"Washington, DC",1
+Internal Auditor â€“ Data Analytics,Vivint Smart Home,"Provo, UT",1
+IAM Strategy and Analytics,MassMutual,"Boston, MA",1
+"Internship Data Scientist, Product Analytics",Criteo,"Palo Alto, CA",1
+"Internship Data Scientist, Product Analytics, Analytics",Criteo,"Palo Alto, CA",1
+Human Services Researcher,Mathematica Policy Research,"Oakland, CA",1
+Human Resources Generalist - Pharma/Life Sciences Services,Precision Xtract,"Oakland, CA",1
+Human Resources Data Analyst,Constellation Brands,"San Francisco, CA",1
+Healthcare Data Analytics Associate,Milliman,"Windsor, CT",1
+Healthcare Data Analytics,Hawaii Medical Service Association,"Honolulu, HI",1
+Healthcare Data Analyst I,Inland Empire Health Plans,"Rancho Cucamonga, CA",1
+Strategy Manager,Kaiser Permanente,"Oakland, CA",1
+IS Business Analyst,City & County of San Francisco,"San Francisco, CA",1
+Global Quantitative Analytics Analyst Program - 2020,Bank of America,"New York, NY",1
+Support Services Engineer,Exponent Partners,California,1
+"Vice President, Data",Glassdoor,"San Francisco, CA",1
+"Director, Product Analytics",LendingClub,"San Francisco, CA",1
+"Director, Product Analytics",Tailored Brands,"Fremont, CA",1
+"Director, Product Analytics & Insights","Pandora Media, LLC","Oakland, CA",1
+Document Imaging Tech,St. Joseph Health / Covenant Health,"Mission Viejo, CA",1
+E-Commerce Data Analytics Manager,Fetch,"Birmingham, AL",1
+Economist - Time Series,"Twitch Interactive, Inc.","San Francisco, CA",1
+"Eden Medical Assembler (2nd Shift, Contract)",Proteus Digital Health,"Hayward, CA",1
+Editorial Creative Curation Specialist,Netflix,"Los Gatos, CA",1
+Energy Engineer,CLEAResult,"Oakland, CA",1
+Engagement Manager - Data Analytics,impakt Advisors,"New York, NY",1
+Engineering,California State University,"Long Beach, CA",1
+Enterprise Data Governance Lead,NIKE INC,"Beaverton, OR",1
+Vans Associate Data Scientist,VF Corporation,"Costa Mesa, CA",1
+Entry Level - Data Entry Research Specialist,Verisys,"South Jordan, UT",1
+"Entry Level - Data Scientist (Markham, Toronto)",IBM,California,1
+"Director, Healthcare Data & Analytics",Perficient,"Boston, MA",1
+"Director, Enterprise Customer Success",Mode,"San Francisco, CA",1
+"VP, Data & Analytics",Cooler Screens,"Chicago, IL",1
+"Vice President, Data & Analytics",Ascend Learning,"Leawood, KS",1
+eCommerce Data Analyst,PepsiCo,"San Francisco, CA",1
+Director of Analytics,Digital Addix,"San Diego, CA",1
+Director of Business Development,Zodaka,"Oakland, CA",1
+Director of Data Engineering,Chime,"San Francisco, CA",1
+"Director of Data and Analytics, DCSW",New York City Department of Education .,"New York, NY",1
+"Director of Innovation & Data Solutions - Charlotte, NC (virtual) location or",JLL,"Charlotte, NC",1
+Director of Research & Data Analytics,Washington State Department of Corrections,"Tumwater, WA",1
+"data scientist, Insights & Analytics - Seattle, WA",Starbucks,"Seattle, WA",1
+"Director, Agile Delivery",Realogy Holdings Corp,"Emeryville, CA",1
+"Director, Analytics and Data Science",Electronic Arts,"Redwood City, CA",1
+"Director, Data & Analytics",BeiGene,"Emeryville, CA",1
+"Watson Health - Analytics Lead, NM",IBM,United States,1
+Warehouse Operations Supervisor,Wayfair,"San Leandro, CA",1
+"Director, Data Capture",NIKE INC,"Beaverton, OR",1
+"Director, Data and Analytics",Informa,"Atlanta, GA",1
+"VP, Enterprise Data Services",Patelco Credit Union,"Pleasanton, CA",1
+"VP, Consumer Data and Analytics",CIT Group,"Pasadena, CA",1
+System Engineering/Data Analytics Intern,KLA-Tencor,"Milpitas, CA",1
+Thermal Analytics Engineer,Apple,"Santa Clara Valley, CA",1
+Talent Operations Specialist,Fivetran,"Oakland, CA",1
+Financial Analyst or Analytics Intern,eBay Inc.,"San Jose, CA",1
+Financial Data Analytics & System Support Analyst,University of North Carolina at Chapel Hill,"Chapel Hill, NC",1
+Financial Data Associate,Moody's Investors Service,"San Francisco, CA",1
+Founding Engineer,Mavis,"San Francisco Bay Area, CA",1
+Fresher/ Entry level/ Junior Data Analyst,"KGS Technology Group, Inc","New York, NY",1
+Full Stack Developer,Obviously AI,"Berkeley, CA",1
+Tableau Data Analyst,2Dream Inc.,"Pleasanton, CA",1
+Full Time Faculty: Data Analytics/Statistics,Harrisburg University o,"Harrisburg, PA",1
+Junior Data Analyst,391 Financial,United States,1
+Global Quantitative Analytics Summer Analyst Program - 2020,Bank of America,"New York, NY",1
+Grievance and Appeals Data Analyst,Santa Clara Family Health Plan,"San Jose, CA",1
+Growth Analytics Intern,Esurance,"San Francisco, CA",1
+"Growth Consultant, User Acquisition Strategies, Google Play",Google,"Mountain View, CA",1
+T-Rex Intership,T-Rex Solutions,"Washington, DC",1
+Telecom Associate - DATA Technician,New York City DEPARTMENT OF TRANSPORTATION,"Manhattan, NY",1
+Faculty Positions in Understanding Land-Water Systems using Data Analytics,Penn State University,"University Park, PA",1
+"VP, Consumer Data and Analytics",Allegion,"Pasadena, CA",1
+Transformation Data Analytics,Johnson Controls,"Milwaukee, WI",1
+VP of Engineering,Mode,"San Francisco, CA",1
+Entry Level Data Analyst Position,KGS Technology Group Inc,"New York, NY",1
+VP of Data & Analytics,Bottomline Technologies,"Portsmouth, NH",1
+VP Data & Analytics,Gap Inc.,"San Francisco, CA",1
+Entry-Level - Data Analyst - Production Planning (Management Associate) Ft. Smith - 214,Gerdau,"Fort Smith, AR",1
+Events & Office Associate,The ArcView Group,"Oakland, CA",1
+Utilities Analyst,University of California San Francisco,"San Francisco, CA",1
+Events Data & Analytics Consultant,FIRST Global Events Agency,"New York, NY",1
+Executive Admin,GHD,"Santa Rosa, CA",1
+User Acquisition Associate,Curology,"San Francisco, CA",1
+Executive-level Intelligence Data Science & Analytics Specialist,GSD LLC,"Beale AFB, CA",1
+Undergrad Summer Internship,Gap Inc.,"San Francisco, CA",1
+Undergrad Non-Tech Internship Opportunities - 2020 (United States),"Amazon.com Services, Inc.","Seattle, WA",1
+Transparency and Data Analyst,Penumbra US,"Alameda, CA",1
+FDA Data Analytics/Text Mining Fellowship,Marijuana Business Daily,"Silver Spring, MD",1
+Jr. Data Analyst,Altegris,"La Jolla, CA",1
+"Senior Associate, Analytics",Mindshare,"New York, NY",1
+Junior Data Analyst,CIT Group,"Lakewood, CO",1
+Proposition Sales - Portfolio Management & Analytics,Refinitiv,"Los Angeles, CA",1
+Provider Data Analyst (GIS Analyst),Kaiser Permanente,"Oakland, CA",1
+Provider Data Analytics â€“ System Analysis Advisor,Cigna,United States,1
+"Senior Data Scientist, Decision Science",Glassdoor,"San Francisco, CA",1
+Purchasing Data Analytics Intern,JLG,"Hagerstown, MD",1
+Purchasing/Subcontracts /Data Analytics Intern,LOCKHEED MARTIN CORPORATION,"Titusville, FL",1
+QA Imaging Clerk,Epi Source,United States,1
+QA Manager,Bellwether Coffee,"Berkeley, CA",1
+QOS Data Analyst,National Football League,"Culver City, CA",1
+Senior Data Scientist - Fraud Analytics,DiDi Labs,"Mountain View, CA",1
+Senior Data Scientist,Kiva.org,"San Francisco, CA",1
+Quality Data Analytics Coordinator,Kindred at Home,"Mooresville, NC",1
+"Quality Data Scientist, Analytics",Northwestern University,"San Francisco, CA",1
+Senior Data And Decision Analyst,Ball State University,"Muncie, IN",1
+"Senior Data Analyst, Talent Analytics",WeWork Global Technology,"New York, NY",1
+"Senior Data Analyst, Talent Analytics",WeWork,"New York, NY",1
+Senior Data Warehouse Analyst,Blue Shield of California,"Oakland, CA",1
+Project Engineer- Operations Data Analytics,Mettler Toledo,"Oakland, CA",1
+"Sr. Solutions Architect, Data & Analytics",Business & Decision,"San Francisco Bay Area, CA",1
+"Senior Director, Data Strategy and Analytics",Churchill Downs Racetrack,"Louisville, KY",1
+Principal Compliance Data Analyst,University of California Office of the President,"Oakland, CA",1
+"Product Analyst, Data Science",Google,"San Bruno, CA",1
+Product Data Analyst - Beats by Dre,Apple,"Culver City, CA",1
+Product Designer - Analytics and Data Tools,Workday,"San Mateo, CA",1
+"Product Manager, Business, Analytics, and Metrics",NoshList,"San Francisco, CA",1
+"Product Mgr, Analytics Product",Walt Disney Direct-to-Consumer and International,"New York, NY",1
+"Senior Manager, Data Governance Analytics",Wayfair,"Boston, MA",1
+Program Associate,RDA,"Oakland, CA",1
+Senior Healthcare Data Analyst,University HealthCare Alliance,"Dublin, CA",1
+Program Data Analyst,GLIDE MEMORIAL CHURCH,"San Francisco, CA",1
+Program Manager,Nielsen,"Emeryville, CA",1
+Program Manager - Analytics,Facebook,"Fremont, CA",1
+"Program Manager, Data and Analytics",Levi Strauss & Co.,"San Francisco, CA",1
+Senior Financial Analyst,Kaiser Permanente,"Oakland, CA",1
+Project Engagement Manager - Analytics Consultant,"Lobue Associates, Inc.","San Francisco, CA",1
+Recruiting Operations Manager,Clif Bar,"Emeryville, CA",1
+Reporting & Analytics â€“ Systems & Data Analyst,BOEING,"Hazelwood, MO",1
+Research & Development Data Analyst,Sutter Health,"Walnut Creek, CA",1
+"Senior Data Analyst, Search Analytics",Google,"San Francisco, CA",1
+Senior Data & Applied Scientist,Microsoft,"Redmond, WA",1
+Sales Intelligence Specialist,Informa,"Santa Monica, CA",1
+"Senior Customer Intelligence Analyst, B2B Insights & Analytics",Wayfair,"Boston, MA",1
+Sales Operations and Analytics Data Manager,Genomic Health,"Redwood City, CA",1
+Senior Business Data Analyst,DraftKings,"Boston, MA",1
+Sales Specialist,Sentech USA INC,"Torrance, CA",1
+Sales Systems Administrator,Collective Health,"San Francisco, CA",1
+Sales and Operations Planning (S&OP) Analyst,Impossible Foods,"Redwood City, CA",1
+Scale PDM,Microsoft,"Bellevue, WA",1
+Science Reference Librarian,Lawrence Livermore National Laboratory,"Livermore, CA",1
+Search Marketing Specialist,Ask Media Group,"Oakland, CA",1
+Security Data & Analytics,Slalom Consulting,"San Francisco, CA",1
+Security Specialist,GameTaco,"San Francisco Bay Area, CA",1
+"Senior Analyst, Data Management & Reporting (OCIO)",University of California Office of the President,"Oakland, CA",1
+"Senior Analyst, Data Science and Analytics",A Place for Mom,"Seattle, WA",1
+Sales Development Intern,Nexla,"Millbrae, CA",1
+Senior Data Analyst,Credit Sesame,"Mountain View, OR",1
+Sales Associate,TerrAvion,"San Leandro, CA",1
+Revenue Analytics Specialist,Apartment List,"San Francisco, CA",1
+Research Associate,LRW,"Huntington Beach, CA",1
+Research Associate,University of California San Francisco,"San Francisco, CA",1
+"Research Intern, 2020",Google,"San Francisco, CA",1
+Research Scientist - Causal Inference,"Twitch Interactive, Inc.","San Francisco, CA",1
+"Senior Data Analyst, Search Analytics",Google,"Mountain View, CA",1
+"Senior Data Analyst, Digital Marketing Analytics (Duration position until December 2020)",Kaiser Permanente,"Burbank, CA",1
+SW Data Analytics DevOps Engineer,Apple,"Santa Clara Valley, CA",1
+Sales Analytics Co-op,Pioneer Investments,"Boston, MA",1
+"Senior Data Analyst â€“ Global Supply Analytics, AMERICAS, Analytics",Criteo,"New York, NY",1
+"Sales & Customer Analytics Intern Summer 2020 (Atlanta, GA Sales Case Competition)",The Clorox Company,"Pleasanton, CA",1
+"Sales & Customer Analytics Intern Summer 2020 (Pleasanton, CA Bay Area Sales Case Competition)",The Clorox Company,"Pleasanton, CA",1
+"Senior Data Analyst â€“ Global Supply Analytics, AMERICAS",Criteo,"New York, NY",1
+Senior Data Analyst,Fivetran,"Oakland, CA",1
+Sales Analytics Co-op,Amundi,"Boston, MA",1
+"Principal Analyst, Product Analytics",Upwork,"San Francisco Bay Area, CA",1
+"Senior Operations Analyst, Business Strategy & Analytics",The RealReal,"San Francisco, CA",1
+Pricing Data Analytics Associate,EMD,"St. Louis, MO",1
+Marketing Data & Analytics Specialist,SurePrep LLC,"Irvine, CA",1
+Sr. Data Analyst (Healthcare),Universal Healthcare,"Hayward, CA",1
+"Manager, Analytics Development",Deckers Brands,"Goleta, CA",1
+"Manager, Consumer Data Analytics",Westfield Corporation,"Los Angeles, CA",1
+"Sr. Business Analyst, Strategic Engagement",UnitedHealth Group,"Oakland, CA",1
+"Sr. Analyst, CRM Analytics",Qdoba | Qdoba Restaurant Group,"San Diego, CA",1
+"Manager, Data Analytics and EDI",AIDS Healthcare Foundation,"Los Angeles, CA",1
+Sr Data Analytics & BI Specialist,WGL,"Springfield, VA",1
+"Sr Consultant, Promoting Interoperability",Kaiser Permanente,"Oakland, CA",1
+"Manager, Data Analytics and Insights",DaVita,"El Segundo, CA",1
+Splunk Data Analytics Engineer,Partners HealthCare(PHS),"Somerville, MA",1
+Splunk - Event Management & Analytics Dashboard Developer,Zeektek,"Rancho Cordova, CA",1
+"Manager, Data Warehouse & Analytics",University of San Francisco,"San Francisco, CA",1
+"Specialist, Merchandising Data Integrations",Wayfair,"Boston, MA",1
+"Manager, Solutions Architecture, Data and Analytics Partners","Amazon Web Services, Inc.","San Francisco, CA",1
+"Specialist, Data Analytics & Research",District of Columbia Public Schools,"Washington, DC",1
+Sr. Data Analyst - Properties Analytics,TARGET,"Minneapolis, MN",1
+Sr. Data Analytics Lead,LiveVox,Remote,1
+"Sr. Data Engineer, Analytics & Insights",project44,"Chicago, IL",1
+"Sr. Director, Data and Analytics",Workday,"Pleasanton, CA",1
+Junior Data Scientist,Munchkin Inc,"Los Angeles, CA",1
+"Labor Systems Big Data & Analytics Internship- Orlando, Spring 2020","Disney Parks, Experiences and Products","Lake Buena Vista, FL",1
+Language Data Researcher - Hindi,"Amazon.com Services, Inc.","Boston, MA",1
+Sr. Software Engineer - Data and Analytics Infrastructure,Apple,"Santa Clara Valley, CA",1
+Lead Analyst - Operations Data Analytics,United Airlines Inc.,"Chicago, IL",1
+Lead Data Analyst,"Gametime United, Inc.","San Francisco, CA",1
+"Senior Architect - Analytics, BI, Big Data",AETNA,"Phoenix, AZ",1
+Manager of Data Integration and Analytics,"Credible Behavioral Health, Inc.","Rockville, MD",1
+"Manager - Analytics, VSP Retail",Vision Service Plan,"Rancho Cordova, CA",1
+"Manager - Data, Reporting & Analytics",Wayfair,"Boston, MA",1
+"Manager Data Analytics & Reporting, Optum",UnitedHealth Group,"Columbia, MD",1
+Manager I - Workforce Analytics Manager,City & County of San Francisco,"San Francisco, CA",1
+Sr. Director Data Science & Analytics,NBCUniversal,"Universal City, CA",1
+Sr. Data Scientist (Big Data Analytics),Palo Alto Networks,"Santa Clara, CA",1
+Marketing Analyst,"f'real foods, LLC.","Emeryville, CA",1
+Marketing Data Analyst,Bay Alarm Company,"Concord, CA",1
+"Senior Specialist - Data, Reporting & Analytics",Wayfair,"Boston, MA",1
+Master Data Science Intern,HP,"San Diego, CA",1
+"Software Engineer, Data",Fathom Health,"San Francisco, CA",1
+People Analytics (HRIS) Specialist,"Borrego Solar Systems, Inc.","Oakland, CA",1
+People Analytics Data Scientist,Applied Materials Inc.,"Santa Clara, CA",1
+"Software Engineer, Big Data Analytics",Bosch Group,"Sunnyvale, CA",1
+People Data Analyst,Square,"San Francisco, CA",1
+People Data Scientist,Dropbox,"San Francisco, CA",1
+People Scientist,Humu,"Mountain View, CA",1
+Software Engineer University Grad - Data Analytics,ViaSat,"Carlsbad, CA",1
+PhD Data Science Intern,HP,"San Diego, CA",1
+Pharmacy Government Programs Associate,Evolent Health,Remote,1
+Planner,La Clinica De La Raza,"Oakland, CA",1
+"Siri - Manager, Siri Data & Analytics PM Team",Apple,"Santa Clara Valley, CA",1
+Practice Area Lead - Data & Analytics,Slalom Consulting,"Portland, OR",1
+"Pre-Sales Solutions Consultant, Data Analytics - SF",Looker,"San Francisco, CA",1
+Predictive Analytics and Big Data,Tango Management Consulting,"Irving, TX",1
+"People Analytics & Reporting Analyst, New York, NY",Bloomingdale's,"New York, NY",1
+"Partner Relations Coordinator, Data & Analytics",Netflix,"Los Angeles, CA",1
+Part-Time Intern: Data Analytics - Spring 2020,Caterpillar,"Peoria, IL",1
+Omnichannel Strategist,Ashfield Healthcare Communications,"Oakland, CA",1
+Meeting Planner Analyst,SEIU United Health Care Workers,"Oakland, CA",1
+Membership Director,Spokes,"San Luis Obispo, CA",1
+Merchant Services-Payments Networks Strategy and Analytics Associate,JPMorgan Chase,"Plano, TX",1
+Mgr Billing Assurance-Data Analytics,Spectrum,"Stamford, CT",1
+Microsoft Reactor Customer Experience and Analytics Manager,Microsoft,"Redmond, WA",1
+Office Assistant,OmniSci,"San Francisco, CA",1
+Operations Analyst,Great American Insurance Group,"Bellevue, WA",1
+"Software Engineer, Data (New College Grad)",Grand Rounds,"San Francisco, CA",1
+Operations Data Analyst,Aimbridge Hospitality,"Plano, TX",1
+Software Engineers (all levels) Davis Start-up,Spotlight-Education,"Davis, CA",1
+Software Engineering Intern - Spatial and People Analytics,WeWork,"San Francisco, CA",1
+Paid Search Specialist,H&L Partners,"Jack London Square, CA",1
+Paid Social Media Specialist,Just Media,"Emeryville, CA",1
+Part-Time Data-Analytics Teaching Opportunity,AHEAD - Analytics Head Start,"Boston, MA",1
+Director - Data & Analytics,"FTI Consulting, Inc.","Los Angeles, CA",1
+", Business and Data Analytics",USAA,"Phoenix, AZ",1
+Digital Business Consultant (Bay Area),Shift Digital,"Oakland, CA",1
+Business Intelligence and Analytics,Navigator Management Partners,United States,1
+Customer Experience,MakerSights,"San Francisco, CA",1
+Customer Success Data Analyst,Bolt,"San Francisco, CA",1
+Customer Success Representative,Dodge Data & Analytics,"San Diego, CA",1
+Cyber Data Analytics Consultant,Deloitte,"Oakland, CA",1
+DATA ANALYST 1,Saalex Solutions Inc,"Ridgecrest, CA",1
+DATA ANALYTICS SPECIALIST,University of New Orleans,"New Orleans, LA",1
+DATA MANAGEMENT IV,State of Colorado Job Opportunities,"Denver, CO",1
+DEI Analyst & Strategist,Snapchat,"Los Angeles, CA",1
+Dashboard & Analytics Internship,Zeevo Group,"Los Angeles, CA",1
+Data & Analytics Analyst - Farmers Financial Solutions,Farmers Insurance Group,"Westlake Village, CA",1
+Data & Analytics Associate,AdTheorent,"New York, NY",1
+Data & Analytics Associate,Nordic,"Madison, WI",1
+Data & Analytics Consultant - Power BI - MSP,Daugherty Business Solutions,"Minneapolis, MN",1
+Data & Analytics Innovation Architect,Equifax,"Alpharetta, GA",1
+Data & Analytics Intern,CBOE,"Chicago, IL",1
+Data & Analytics Manager,Hero Group-BeechNut,"Amsterdam, NY",1
+Data & Analytics Solution Principal,Slalom Consulting,"Silicon Valley, CA",1
+Data & Operations Intern,SoftInWay Inc.,"New York, NY",1
+Data & Tableau Reporting Analyst,Apple,"Santa Clara Valley, CA",1
+Crisis Mapping and Data Science Specialist,Direct Relief,"Santa Barbara, CA",1
+Credit and Collection Specialist,"Berkeley Research Group, LLC","Emeryville, CA",1
+Contract Closeout Clerk,CACI,"Edwards AFB, CA",1
+Chief Technology Officer - Cannabis industry,Source EQ,"Los Angeles, CA",1
+Business Operations Associate,ZS Associates,"San Francisco, CA",1
+Business and Data Analytics Executive,USAA,"Phoenix, AZ",1
+Business/Data Analyst,Jacaruso Enterprises,United States,1
+CAD Methodology Engineer- Data Analytics,Apple,"Austin, TX",1
+Campus Recruitment â€“ 2020 Data Scientists / Analytics Managers / Product Managers Full-Time Opportunities in Credit & Fraud Risk,American Express,United States,1
+Case Assistant - Complex Insurance Claims,"Berkeley Research Group, LLC","Emeryville, CA",1
+Chief Data Scientist/Chief of Analytics,Guidehouse,"McLean, VA",1
+Chief Data and Privacy Officer,Albertsons Companies,"Pleasanton, CA",1
+Child Welfare Data Analyst - Department of Research and Planning,Trial Courts of Massachusetts,"Boston, MA",1
+"Consulting Data Analyst - Epidemiology, Bio-statistics, R, SAS, SQL",Kaiser Permanente,"Oakland, CA",1
+Clinical Data Abstractor,CIOX Health,Remote,1
+Clinical Informatics Data Analyst,Clover Health,"San Francisco, CA",1
+Clinical Informatics Data Scientist,Valley Children's Healthcare,"Madera, CA",1
+Cloud Based Analytics Data Engineer,Quantum Corporation,"Englewood, CO",1
+Coding Data Analyst,UC Davis Health,"Sacramento, CA",1
+Competitive Intelligence and Research Analyst,Technology Credit Union,"San Jose, CA",1
+Connections - Data Manager (SY 2019-2020),Holyoke Public Schools,"Holyoke, MA",1
+"Consulting Data Analyst - (Part-Time) R, Linux, LaTeX",Kaiser Permanente,"Oakland, CA",1
+Data Analysis Intern,WrkShp,"San Francisco, CA",1
+Data Analysis Manager,East Bay Asian Local Development Corporation,"Oakland, CA",1
+Data Analysis Software Engineer,Swift Navigation,"San Francisco, CA",1
+Data Analyst & Prospect Researcher,California State University,"Bakersfield, CA",1
+Data Analyst,Second Harvest Food Bank of Santa Clara and San Ma...,"San Jose, CA",1
+Data Analyst,Sundae,"San Francisco, CA",1
+Data Analyst,The Climate Corporation,"San Francisco, CA",1
+Data Analyst,"Twitch Interactive, Inc.","San Francisco, CA",1
+Data Analyst,Udacity,"Mountain View, CA",1
+Data Analyst,Verizon,"Denver, CO",1
+Data Analyst,XPO Logistics,"Hillsboro, OR",1
+Data Analyst,Zelian,"New York, NY",1
+"Data Analyst (14898, Grade EI)",The Maryland-National Capital Park and Planning Co...,"Silver Spring, MD",1
+Data Analyst,PicMonkey,"Seattle, WA",1
+Data Analyst (Mobile Apps and Product),Wikimedia Foundation,"San Francisco, CA",1
+Data Analyst - BI & Analytics,AlphaSense,"New York, NY",1
+Data Analyst - Investigative Analytics - Senior Associate,PwC,"San Francisco, CA",1
+Data Analyst - Learning Analytics,Western Governors University,"Salt Lake City, UT",1
+Data Analyst - Office of Strategic Initiatives,"City of Arlington, Texas","Arlington, TX",1
+Data Analyst - Privacy,Uber,"San Francisco, CA",1
+Data Analyst - Programmatic,Zeta Global,"San Francisco, CA",1
+Data Analyst Associate,Northwestern University,"Evanston, IL",1
+Data Analyst,Rimeto,"San Francisco, CA",1
+Data Analyst,P&G,"Seattle, WA",1
+Data Analyst,Axos Bank,"San Diego, CA",1
+Data Analyst,Grid Dynamics,"Milpitas, CA",1
+Data Analyst,Bird Rides Inc.,"Santa Monica, CA",1
+Data Analyst,Brady Corporation,"Ontario, CA",1
+Data Analyst,City of Lincoln & Lancaster County,"Lincoln, NE",1
+Data Analyst,Credit Sesame,"Mountain View, OR",1
+Data Analyst,First American,"Santa Ana, CA",1
+Data Analyst,FocusKPI Inc.,"San Francisco, CA",1
+Data Analyst,Gimlet Media,"Brooklyn, NY",1
+Data Analyst,Glu Mobile,"San Francisco, CA",1
+Data Analyst,I2Usystems,"Philadelphia, PA",1
+Data Analyst,Nurx,"San Francisco, CA",1
+Data Analyst,IBM,"Columbia, MO",1
+Data Analyst,Jam City,"San Francisco, CA",1
+Data Analyst,Jet.com,"San Bruno, CA",1
+Data Analyst,LendingTree,"Chicago, IL",1
+Data Analyst,Make-A-Wish Foundation of America,"Phoenix, AZ",1
+Data Analyst,Mediamorph,"New York, NY",1
+Data Analyst,Mind Solutions LLC,"Sunnyvale, CA",1
+Data Analyst,Mortgage Center,"Southfield, MI",1
+"Business Mentor, MS Business Analytics - 2019-2020","University of California, Davis","San Francisco, CA",1
+Business Intelligence Engineer,Twitch,"San Francisco, CA",1
+Data Analyst I,Community Medical Centers Inc,"Stockton, CA",1
+Business Intelligence Developer,Clif Bar,"Emeryville, CA",1
+Analyst Data Analytics,Southwest Airlines,"Dallas, TX",1
+"Analyst, Analytics and Information, San MateoÂ ",Xelay Acumen,"San Mateo, CA",1
+"Analyst, Benchmarking - Visa Consulting & Analytics",Visa,"Foster City, CA",1
+"Analyst, Data & Insights Group - International Analytics",The New York Times,"New York, NY",1
+"Analyst, Data Analytics",WALGREENS,"Deerfield, IL",1
+"Analyst, Data and Insights Group - Advertising",The New York Times,"New York, NY",1
+"Analyst, Ethics & Compliance Data Analytics & Monitoring",BD,"San Diego, CA",1
+"Analyst, People Analytics",Palo Alo Networks,"Santa Clara, CA",1
+"Analyst, Research Analytics BI",Viacom,"New York, NY",1
+"Analyst, Trust and Safety",Upwork,"San Francisco Bay Area, CA",1
+Analyst: Consulting Practice,JLL,"San Francisco, CA",1
+Analytics /Data /Research Analyst,PPG Marine,"Washington, DC",1
+Analytics Analyst,Tracking Link Board,"Boston, MA",1
+Analytics Consultant,159 Solutions,"San Francisco Bay Area, CA",1
+Analytics Data Architect,Qlik,"Newton, MA",1
+"Analytics Data Integration Developer, Sr.",MemorialCare Health Services,"Fountain Valley, CA",1
+Analytics Director,M/H VCCP,"San Francisco, CA",1
+Analytics Engineer,SoundHound Inc.,"Santa Clara, CA",1
+Analytics Engineer / Data Engineer,Blue Cross Blue Shield of Michigan,"Detroit, MI",1
+Analyst - Data Analytics,Technamo LLC,"Centreville, MD",1
+Analyst - Amazon Analytics,Newell Brands,"Seattle, WA",1
+American Express Campus â€“ 2020 Digital Analytics/Data Science Summer Internship,American Express,United States,1
+Account Executive,Datacoral,"San Francisco, CA",1
+2020 Information Technology - Advanced Data and Analytics Intern (2 Positions),Federal Reserve Bank of San Francisco,"San Francisco, CA",1
+2020 Intern - Data Scientist,IBM,United States,1
+2020 Summer Intern - Data Scientist/Data Analytics (.com Calif Temp Mgmt),Walmart,"Sunnyvale, CA",1
+2020 University Intern - Data Scientist/Analytics,Phillips 66,"Houston, TX",1
+"2VP, Data & Advanced Analytics Technology",Travelers,"Hartford, CT",1
+"ANALYST, ANALYTICS",Ipsos North America,"Chicago, IL",1
+AOI Programmer,Tempo Automation,"San Francisco, CA",1
+"AVP, CareCredit Analytics - BD & Competitive Intelligence",Synchrony,"Costa Mesa, CA",1
+Account Management IV,Kaiser Permanente,"Oakland, CA",1
+"Algorithms Engineer (Data analytics, Python or R, Statistics, Data Structures)",KLA-Tencor,"Ann Arbor, MI",1
+Acquisition Managment Professionals,"MSB Analytics, Inc.","Silver Spring, MD",1
+"Actuarial Associate, Medi-care",Kaiser Permanente,"Oakland, CA",1
+Administrative Support Coordinator I,California State University,"San Francisco Bay Area, CA",1
+Adobe Analytics Consultant,Kaiser Permanente,"Pleasanton, CA",1
+Advanced Analytics Associate (West),Komodo Health,"San Francisco, CA",1
+Advanced Analytics Internship,Maxim Integrated,"San Jose, CA",1
+Advanced Analytics Specialist 3,Sam's Club,"Sunnyvale, CA",1
+Advanced Data Analytics Year-Round Intern,Federal Reserve Board of Governors,"Washington, DC",1
+Analytics Implementations Engineer,Macy's,"San Francisco, CA",1
+Analytics Lead,Affirm,"San Francisco, CA",1
+Analytics Lead,"Phil, Inc.","San Francisco, CA",1
+Business Analytics & Data Science Intern â€“ Summer 2020,University of Phoenix,"Phoenix, AZ",1
+Big Data Analytics,MW-TechConsulting,United States,1
+Big Data Architect,TEQNirvana LLC,"Boston, MA",1
+Big Data Developer,Adwait,"San Francisco, CA",1
+Big Data Developer - Data Analytics Team,Teamsoft Technologies,"San Francisco, CA",1
+Big Data Engineer - Strategic Analytics,JnD Inc.,"Plano, TX",1
+Brand Analytics Associate,Alyvant,"New York, NY",1
+Brand Analytics Data Scientist,Alyvant,"New York, NY",1
+"Business Analyst, Consultant",Blue Shield of California,"Oakland, CA",1
+Business Analytics / Data Scientist,Zoetis,"Parsippany, NJ",1
+Behavior Interventionist/Tutor,Analytical Behavior Consultants,"San Leandro, CA",1
+Business Analytics Developer,University of California San Francisco,"San Francisco, CA",1
+Business Data Analyst,Houston Dynamo/Dash/BBVA Stadium,"Houston, TX",1
+Business Data Analyst,Restoration Hardware,"Tracy, CA",1
+"Business Data Analyst, Internal Agency",DraftKings,"Boston, MA",1
+Business Development Manager,"BayHealth, LLC","Emeryville, CA",1
+Business Initiatives Analyst,Wells Fargo,"San Francisco, CA",1
+Business Intelligence / Data Visualization Analyst,Apple,"Santa Clara Valley, CA",1
+Business Intelligence Analyst - Data & Analytics,Tanner Health System,"Carrollton, GA",1
+Big Data - Spark with Scala,Avani Technology Solutions Inc,"Portland, OR",1
+Behavior Interventionist,Analytical Behavior Consultants,"Richmond, CA",1
+Analytics Professional,Janover Ventures,"Miami Beach, FL",1
+Associate Data Scientist I/II,"BioFire Diagnostics, LLC.","Salt Lake City, UT",1
+Analytics Trainer,Jellyfish,"San Francisco, CA",1
+Analytics and Data Science,Pournader & Company,United States,1
+"Architect, Big Data Analytics",Fungible Inc.,"Santa Clara, CA",1
+Associate - Data Science Reporting and Analytics,Morgan Stanley,"Purchase, NY",1
+Associate Analytics Consultant,Tableau,"Seattle, WA",1
+Associate Consultant,ZoomRx,"San Francisco, CA",1
+Associate Data Analytics Specialist,PacificSource Health Plans,"Springfield, OR",1
+Associate Data Scientist (Full Time Starting Summer 2020),EAB,"Washington, DC",1
+"Associate Director, Data Science & Analytics",Publicis Sapient,"Atlanta, GA",1
+BRM Director â€“ Data Analytics,Sony Pictures Entertainment Inc.,"Culver City, CA",1
+"Associate Manager, Customer Experience Analytics",Walmart,"San Bruno, CA",1
+Associate Media Director,Just Media,"Emeryville, CA",1
+"Associate, Data Analytics",BKM Capital,"Newport Beach, CA",1
+"Associate, Investment Analytics and Data",Dimensional Fund Advisors,"Austin, TX",1
+Audience Data Analyst,Dow Jones,"New York, NY",1
+Audit - Data Analytics Specialist - Associate,JPMorgan Chase,"Plano, TX",1
+Azure Analytics Services Architect,Trianz,"San Francisco, CA",1
+BI / Data Engineer,Neal Analytics,"Redmond, WA",1
+Data Analyst I,Bio-Rad,"Hercules, CA",1
+Data Analyst Intern,HP,"Palo Alto, CA",1
+Developer III - Data Analytics,Inland Empire Health Plans,"Rancho Cucamonga, CA",1
+Data Governance Analyst,University of California San Francisco Medical Cen...,"San Francisco, CA",1
+Data Science and Analytics Leader,Netflix,"Los Gatos, CA",1
+Data Scientist,Canopy Health,"Emeryville, CA",1
+Data Scientist,Change Healthcare,"Emeryville, CA",1
+Data Scientist,Clarivate Analytics,"San Francisco, CA",1
+Data Scientist,Grand Rounds,"San Francisco, CA",1
+Data Scientist,Karat,"Seattle, WA",1
+Data Scientist,L.A. Care Health Plan,"Los Angeles, CA",1
+Data Scientist,LeanTaaS,"Santa Clara, CA",1
+Data Scientist,National Security Agency,"Fort Meade, MD",1
+Data Scientist,Oracle,"Redwood City, CA",1
+Data Scientist,Osmo,"Palo Alto, CA",1
+Data Scientist,Predictive Partner LLC,"San Francisco Bay Area, CA",1
+Data Scientist,Psyonix,"San Diego, CA",1
+Data Scientist,RepairSmith,"Los Angeles, CA",1
+Data Scientist,Scaleapi,"San Francisco, CA",1
+Data Scientist,Sky RPO,"San Francisco, CA",1
+Data Scientist,States Title Holding,"San Francisco, CA",1
+Data Scientist,Teespring,"San Francisco, CA",1
+Data Scientist,Virta Health,"San Francisco, CA",1
+Data Science and Analytics,Capgemini,"New York, NY",1
+"Data Science Manager, Analytics",Facebook,"Seattle, WA",1
+Data Science Manager,Opinion Dynamics,"Oakland, CA",1
+Data Operations Associate,EnerNOC,"Boston, MA",1
+Data Intake Engineer,Clearwater Analytics,"Boise, ID",1
+Data Integration Architect - GRM US,Liberty Mutual Insurance,"Dover, NH",1
+Data Integrity Specialist,Novus Print Media,"Plymouth, MN",1
+Data Intern,E source,"Boulder, CO",1
+Data Intern,GreatSchools,"Oakland, CA",1
+Data Lead,Acelero Learning,"Stanley, NC",1
+Data Management Specialist : 19-04256,Akraya Inc.,"Pleasanton, CA",1
+Data Operations Analyst,Addepar,"Salt Lake City, UT",1
+Data Operations Engineer,FareHarbor,"Denver, CO",1
+Data Science Manager,Good Money,"San Francisco, CA",1
+Data Operations Specialist,Apartment List,"San Francisco, CA",1
+Data Platform Manager,Uber,"San Francisco, CA",1
+Data QA and Analytics Engineer,HealthVerity,"Philadelphia, PA",1
+Data Quality Analyst,CenCal Health,"Santa Barbara, CA",1
+Data Quality Control in AWS,"Blue Compass, LLC","Tysons Corner, VA",1
+Data Science Intern,Cuker,"Carlsbad, CA",1
+Data Science Intern,Interview Query,"San Francisco Bay Area, CA",1
+Data Science Intern (Summer 2020),Mozilla,"San Francisco, CA",1
+Data Scientist - Alexa Shopping,"Amazon.com Services, Inc.","Palo Alto, CA",1
+Data Scientist - Batteries,Apple,"Santa Clara Valley, CA",1
+Data Scientist - Chat Bot Focus,Predictive Partner LLC,"Seattle, WA",1
+Data Visualization and Analytics Consultant,Slalom Consulting,"Los Angeles, CA",1
+Data Steward - Data Management & Governance,Esri,"Redlands, CA",1
+"Data Strategy Lead - Big Data, Cloud, Analytics",Accenture,"San Francisco, CA",1
+Data Support Specialist,Laserfiche,"Long Beach, CA",1
+Data Systems Specialist II,Travis Unified School District,"Fairfield, CA",1
+Data Visualization Analyst,Government of the District of Columbia,"Washington, DC",1
+"Data Visualization Analyst, People Analytics",Facebook,"New York, NY",1
+Data Visualization Developer I,"Corporate - Medford, OR","Medford, OR",1
+Data Visualization and Analytics,Allscripts,United States,1
+"Data Warehouse Analyst, Reconciliation",Square,"San Francisco, CA",1
+Data Services ETL Developer,"California State University, Monterey Bay","Monterey Bay, CA",1
+Data and Analytics Engineer,Robert W. Baird,"Milwaukee, WI",1
+Data and Analytics Manager,Toyota Material Handling U.S.A.,"Columbus, IN",1
+Data and Analytics Specialist,Southwest Key Programs,"Phoenix, AZ",1
+"Data and Systems Architect, Finance, Systems and Integrations",Google,"Sunnyvale, CA",1
+Data warehouse BI Developer,IDC,"San Francisco, CA",1
+Data/Business Intelligence/Analytics Project Manager,Redapt,"Bellevue, WA",1
+"Data/Database Engineer, Analytics","Amazon.com Services, Inc.","Seattle, WA",1
+Data/NLP Scientist,AnswerIQ,"Bellevue, WA",1
+Data Steward,"StoneLaurel Consulting, Inc.","Durham, NC",1
+"Data Scientist, Zillow Offers",Zillow Group,"Seattle, WA",1
+Data Scientist - Customer Analytics,Walmart eCommerce,"San Bruno, CA",1
+"Data Scientist, Analytics - Family Ecosystem",Facebook,"Menlo Park, CA",1
+Data Scientist - Grid Analytics,Sentient Energy Inc.,"Burlingame, CA",1
+Data Scientist - Strategic Partnerships,King,"San Francisco, CA",1
+Data Scientist Intern - Pricing Strategy and Analytics,HP,"San Diego, CA",1
+"Data Scientist, Analyst",SoFi,"San Francisco, CA",1
+"Data Scientist, Analytics",Calm,"San Francisco, CA",1
+"Data Scientist, Analytics",NEXT Trucking,"Los Angeles, CA",1
+"Data Scientist, Analytics (PhD)",Facebook,"New York, NY",1
+"Data Scientist, Analytics (University Grad)",Facebook,"New York, NY",1
+"Data Scientist, Analytics - Messenger Growth",Facebook,"Menlo Park, CA",1
+"Data Scientist, Product Analytics",eBay Inc.,"San Francisco, CA",1
+"Data Scientist, Analytics, Intern",Facebook,"New York, NY",1
+"Data Scientist, Basketball Integrity",the NBA,"New York, NY",1
+"Data Scientist, Data & Analytics",Slalom Consulting,"Charlotte, NC",1
+"Data Scientist, Insights & Analytics",Spotify,"New York, NY",1
+"Data Scientist, Junior",Booz Allen Hamilton,"San Diego, CA",1
+"Data Scientist, Music Analytics",Spotify,"New York, NY",1
+"Data Scientist, People Analytics",Genentech,"South San Francisco, CA",1
+"Data Scientist, Product Analytics",StubHub,"San Francisco, CA",1
+Data Infrastructure Engineer (Siri Experimentation Platform),Apple,"Santa Clara Valley, CA",1
+Data Entry Processor,Conduent,"Concord, NH",1
+Data Analyst Intern,Paypal,"San Jose, CA",1
+Data Entry,Paysafe Group,"Irvine, CA",1
+Data Analytics Business Intelligence Manager,Omni Family Health,"Shafter, CA",1
+Data Analytics Consultant,Accenture,"San Jose, CA",1
+Data Analytics Consultant,Deloitte,"Arlington, VA",1
+Data Analytics Consultant,Reveille Group,"Washington, DC",1
+Data Analytics Consultant,VISIMO,"Pittsburgh, PA",1
+Data Analytics Consultant (Graduating Dec 2019 - May 2020),CapTech Consulting,"Richmond, VA",1
+Data Analytics Consulting,West Advanced Technologies (WATI),"Sacramento, CA",1
+Data Analytics Course Mentor,Thinkful,Remote,1
+Data Analytics Developer,KaiHonua LLC,"Rock Island, IL",1
+Data Analytics Engineer,Bonobos,"New York, NY",1
+Data Analytics Engineer,GoPro,"San Mateo, CA",1
+Data Analytics Engineer,"Harbor Freight Tools USA, Inc.","Calabasas, CA",1
+Data Analytics Engineer (Entry-Level),Allstate,"Chandler, AZ",1
+"Data Analytics Engineer, Content Analytics",Spotify,"New York, NY",1
+Data Analytics Engineer- Graph Experience (Neo4J or Neptune),Spotline Inc,"San Francisco, CA",1
+Data Analytics Engineering Intern - Spring 2020- 90259763 - Philadelphia,Amtrak,"Philadelphia, PA",1
+Data Analytics Intern,Fractal Analytics Inc.,"Chicago, IL",1
+Data Analytics Intern (Spring 2020),Imperial Supplies,"Green Bay, WI",1
+"Data Analytics Liaison - SQL, SAS - Livonia - 40 hrs/wk",Saint Joseph Mercy Health System,"Ann Arbor, MI",1
+Data Analytics Associate,Imaging Endpoints,"Scottsdale, AZ",1
+Data Analytics Architect - Junior,CACI,"Washington, DC",1
+Data Analytics Analysts,ICC Logistics Services,"Hicksville, NY",1
+"Data Analyst, Sales Business Partner",LiveVox,Remote,1
+Data Analyst Internship (SF),Protagonist,"San Francisco, CA",1
+Data Analyst Specialist-Medical Staff (FT-Days) Consolidated,Valley Health System Consolidated Services,"Las Vegas, NV",1
+Data Analyst for Business Intelligence Department,VS Media,"Westlake Village, CA",1
+"Data Analyst, Alliances Team",Twitch,"San Francisco, CA",1
+"Data Analyst, Alliances Team","Twitch Interactive, Inc.","San Francisco, CA",1
+"Data Analyst, Analytics",MedExpress Urgent Care,"Canonsburg, PA",1
+"Data Analyst, Growth",VSCO,"Oakland, CA",1
+"Data Analyst, Innovation Analytics",Aaron's,"Atlanta, GA",1
+"Data Analyst, Search Analytics",Google,"San Francisco, CA",1
+Data Analytics Analyst,Inmar,"Rogers, AR",1
+"Data Analyst, Senior - People Analytics Team",Qualcomm,"San Diego, CA",1
+"Data Analyst, Supply Chain Analytics",Wayfair,"Boston, MA",1
+Data Analyst/Data Scientist (2020 Start) - Analytics - Multioffice,Charles River Associates,"New York, NY",1
+Data Analytics & Automation Associate,BDO,"Chicago, IL",1
+Data Analytics & Dashboard Visualization Specialist - Experienced Associate,Guidehouse,"McLean, VA",1
+Data Analytics & Engineering Lead,Whistle,"San Francisco, CA",1
+Data Analytics & Modeling Practitioner,Clarus Group,"Washington, DC",1
+Data Analytics & Visualization Specialist,Integrated Financial,"McLean, VA",1
+Data Analytics Manager,Beacon Funding,"Northbrook, IL",1
+Data Analytics Manager,State of Illinois,"Cook County, IL",1
+Data Analytics Manager,University of California San Francisco,"San Francisco, CA",1
+Data Engineer,YourMechanic,"Mountain View, CA",1
+Data Engineer,"Edwards Vacuum, LLC","Hillsboro, OR",1
+Data Engineer,Flow Labs,"Oakland, CA",1
+Data Engineer,Hinge Health,"San Francisco, CA",1
+Data Engineer,NICE Mattersight,"Austin, TX",1
+Data Engineer,Pacific Data Integrators,"San Francisco, CA",1
+Data Engineer,Scoop Technologies,"San Francisco, CA",1
+Data Engineer,Spotline Inc,"San Mateo, CA",1
+Data Engineer,Trianz,"San Francisco, CA",1
+"Data Engineer (SQL, Python)",Trianz,"San Francisco, CA",1
+Data Engineer,"Amazon.com Services, Inc.","Seattle, WA",1
+"Data Engineer (multiple roles, levels)",Data+Math,"Boston, MA",1
+Data Engineer - Analyst (Corporate Office) - Alameda,Telecare Corporation,"Alameda, CA",1
+Data Engineer - Retail Business Intelligence,Apple,"Santa Clara Valley, CA",1
+Data Engineer Bachelor's (Intern) - United States,Cisco Careers,"San Jose, CA",1
+"Data Engineer, Infra Product Analytics",Facebook,"Menlo Park, CA",1
+"Data Engineer, Ingestion - Spatial and People Analytics",WeWork,"Palo Alto, CA",1
+"Data Engineer, Product Analytics",Brain Corp,"San Diego, CA",1
+"Data Engineering/Analytics Grad Intern, Int'l Labor Standards Sp'20",The Walt Disney Company (Corporate),"Glendale, CA",1
+Data Engineer,Columbia Sportswear Company,"Portland, OR",1
+Data Consultant-Marketing,Kaiser Permanente,"Burbank, CA",1
+Data Analytics Manager,"Wheels Labs, Inc.","West Hollywood, CA",1
+Data Analytics and Marketing Operations Intern,Synopsys,"Boston, MA",1
+Data Analytics Specialist,Screen Actors Guild- Producers Pension & Health Pl...,"Burbank, CA",1
+Data Analytics Specialist,Signet Jewelers,"Akron, OH",1
+Data Analytics Specialist,Tierra Resource Consultants,"Walnut Creek, CA",1
+"Data Analytics Specialist - St. Peter's Hospital, Albany, NY - Full Time Days",St. Peter's Health Partners,"Albany, NY",1
+Data Analytics Strategy & Operations Associate,access2insight,"Chicago, IL",1
+Data Analytics Teaching Assistant - University of Oregon,Trilogy Ed,"Portland, OR",1
+Data Analytics Team Lead,LaunchDarkly,"Oakland, CA",1
+Data Analytics and Governance Intern,Blue Cross and Blue Shield of Nebraska (BCBSNE),"Omaha, NE",1
+"Data Analytics and Research Consultant, Medicare Stars",Kaiser Permanente,"Burbank, CA",1
+"Data Consultant - SAS, R, Epidemiology, Bio-statistics",Kaiser Permanente,"Oakland, CA",1
+Data Analytics â€“ Associate,Forensic Risk Alliance,"New York, NY",1
+Data Architect,BayInfotech,"Oakland, CA",1
+Data Architect - Min Analytics,OSF Healthcare,"Peoria, IL",1
+"Data Architect, Data and Analytics",Business & Decision,"San Francisco Bay Area, CA",1
+Data Associate,USAC,"Washington, DC",1
+Data Base and Marketing Analytics Intern,Tractor Supply Company,"Brentwood, TN",1
+Data Consultant,Kaiser Permanente,"Oakland, CA",1
+"Data Consultant - Epidemiology, Bio-statistics, SAS, SQL, R",Kaiser Permanente,"Oakland, CA",1
+Data Scientist - Intern,Zillow,"Seattle, WA",1
