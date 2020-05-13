@@ -1,4 +1,3 @@
-MSDS 593 Data Visualization Final Project
+# Project Goals
 
-
-Job Market for Data Scientist in the US
+To analyze the Data Science Job Market using job postings scraped from Indeed.com. This project was done in collaboration with my fellow classmate Shrikar Thodla.
